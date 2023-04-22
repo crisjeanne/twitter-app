@@ -5,13 +5,21 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 
+
+Ruby 3.2.2
+Rails 7
 
 * System dependencies
+
+Devise
+
 
 * Configuration
 
 * Database creation
+
+Postgres
 
 * Database initialization
 
