@@ -5,8 +5,8 @@ class TweetsController < ApplicationController
 
         if tweet.save
             redirect_to dashboard_path
+        end
     end
-end
 
     private
 
