@@ -12,18 +12,12 @@ Rails 7
 
 * System dependencies
 
-Devise
-
-
-* Configuration
-
-* Database creation
-
-Postgres
-
-* Database initialization
+Refer to GemFile for libraries and their versions.
 
 * How to run the test suite
+
+Run:
+bundle exec rspec
 
 * Services (job queues, cache servers, search engines, etc.)
 
